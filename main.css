@@ -1,0 +1,29 @@
+.nav li {
+	display: inline;
+}
+.nav a {
+	color: #282828;
+	font-size: 11px;
+	font-weight: bold;
+	padding: 14px 10px;
+	text-transform: uppercase;
+}
+.jumbotron{
+	background-image:url("http://www.chiropracticlifeblog.com/wp-content/uploads/2009/06/dna-double-helix.jpg");
+	height: 500px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.jumbotron h1{
+	color: #c6c6c6;
+}
+.jumbotron p {
+	color: #999999;
+}
+.jumbotron .container {
+	position: relative;
+	top: 100px;
+}
+.nav {
+	background-color: #cccccc
+}
