@@ -25,5 +25,12 @@
 	top: 100px;
 }
 .nav {
-	background-color: #cccccc
+	background-color: #cccccc;
+	border-bottom: 1px solid #3b3b3b;
+}
+.lrn-moar {
+	background-color: #cccccc;
+}
+.body {
+	background-color: #cccccc;
 }
