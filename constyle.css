@@ -12,3 +12,28 @@
 	background-color: #cccccc;
 	border-bottom: 1px solid #3b3b3b;
 }
+.jumbotron{
+	background-image:url("http://stemcellthailand.org/wp-content/uploads/2014/03/chromosome-thailand.jpg");
+	height: 500px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.jumbotron h1{
+	color: #d6d6d6;
+}
+.jumbotron p {
+	color: #999999;
+}
+.society {
+	border-bottom: 2px solid #d6d6d6;
+	border-right: 2px solid #d6d6d6;
+	border-left: 2px solid #d6d6d6;
+}
+.health {
+	border-bottom: 2px solid #d6d6d6;
+	border-right: 2px solid #d6d6d6;
+	border-left: 2px solid #d6d6d6;
+}
+.stats {
+	background-color: #cccccc;
+}
